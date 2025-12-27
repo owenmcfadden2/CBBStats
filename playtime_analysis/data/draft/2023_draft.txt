@@ -1,0 +1,62 @@
+,,,Round 1,Round 1,,Totals,Totals,Totals,Totals,Totals,Shooting,Shooting,Shooting,Per Game,Per Game,Per Game,Per Game,Advanced,Advanced,Advanced,Advanced
+Rk,Pk,Tm,Player,College,Yrs,G,MP,PTS,TRB,AST,FG%,3P%,FT%,MP,PTS,TRB,AST,WS,WS/48,BPM,VORP
+1,1,SAS,Victor Wembanyama,,3,135,4179,3060,1473,506,.475,.341,.812,31.0,22.7,10.9,3.7,9.7,.111,6.0,8.4
+2,2,CHO,Brandon Miller,Alabama,3,116,3748,2116,502,323,.423,.363,.838,32.3,18.2,4.3,2.8,1.3,.016,-2.0,0.0
+3,3,POR,Scoot Henderson,,2,128,3524,1705,392,671,.401,.340,.793,27.5,13.3,3.1,5.2,0.1,.002,-4.0,-1.8
+4,4,HOU,Amen Thompson,,3,159,4643,2063,1177,577,.539,.212,.706,29.2,13.0,7.4,3.6,15.3,.159,2.8,5.6
+5,5,DET,Ausar Thompson,,3,149,3628,1472,866,326,.511,.208,.601,24.3,9.9,5.8,2.2,7.4,.098,-0.1,1.7
+6,6,ORL,Anthony Black,Arkansas,3,178,3969,1497,498,437,.439,.339,.711,22.3,8.4,2.8,2.5,5.2,.062,-2.0,0.0
+7,7,IND,Bilal Coulibaly,,3,137,4061,1403,615,349,.423,.304,.731,29.6,10.2,4.5,2.5,0.6,.007,-3.9,-2.0
+8,8,WAS,Jarace Walker,Houston,3,139,2279,863,436,209,.414,.368,.738,16.4,6.2,3.1,1.5,1.4,.029,-2.3,-0.2
+9,9,UTA,Taylor Hendricks,Central Florida,3,62,1215,419,263,45,.448,.379,.789,19.6,6.8,4.2,0.7,1.8,.071,-1.5,0.1
+10,10,DAL,Cason Wallace,Kentucky,3,180,4393,1363,505,359,.469,.380,.798,24.4,7.6,2.8,2.0,11.3,.123,0.6,2.9
+11,11,ORL,Jett Howard,Michigan,3,100,1015,407,108,69,.382,.305,.750,10.2,4.1,1.1,0.7,0.7,.031,-4.1,-0.6
+12,12,OKC,Dereck Lively II,Duke,3,98,2242,827,685,158,.725,.000,.579,22.9,8.4,7.0,1.6,8.7,.187,1.6,2.0
+13,13,TOR,Gradey Dick,Kansas,3,146,3359,1481,385,189,.412,.350,.855,23.0,10.1,2.6,1.3,2.2,.032,-4.1,-1.8
+14,14,NOP,Jordan Hawkins,UConn,3,147,2821,1248,346,156,.372,.347,.818,19.2,8.5,2.4,1.1,0.4,.007,-4.6,-1.9
+15,15,ATL,Kobe Bufkin,Michigan,2,27,320,134,54,44,.374,.220,.654,11.9,5.0,2.0,1.6,-0.1,-.012,-4.3,-0.2
+16,16,UTA,Keyonte George,Baylor,3,172,5159,2822,590,914,.405,.344,.854,30.0,16.4,3.4,5.3,2.7,.026,-2.7,-0.8
+17,17,LAL,Jalen Hood-Schifino,Indiana,2,36,424,140,40,45,.329,.262,.732,11.8,3.9,1.1,1.3,-0.6,-.068,-9.3,-0.8
+18,18,MIA,Jaime Jaquez Jr.,UCLA,3,171,4374,1936,739,500,.486,.308,.780,25.6,11.3,4.3,2.9,7.9,.087,-1.2,0.8
+19,19,GSW,Brandin Podziemski,Santa Clara,3,169,4546,1814,895,596,.451,.381,.718,26.9,10.7,5.3,3.5,10.2,.108,0.3,2.6
+20,20,HOU,Cam Whitmore,Villanova,3,119,2061,1249,389,97,.450,.349,.712,17.3,10.5,3.3,0.8,3.3,.077,-0.4,0.8
+21,21,BRK,Noah Clowney,Alabama,3,97,2201,927,372,110,.396,.340,.807,22.7,9.6,3.8,1.1,2.3,.049,-2.8,-0.4
+22,22,BRK,Dariq Whitehead,Duke,2,22,270,117,33,15,.396,.429,.571,12.3,5.3,1.5,0.7,0.0,.007,-4.1,-0.1
+23,23,POR,Kris Murray,Iowa,3,160,3126,833,524,180,.416,.252,.585,19.5,5.2,3.3,1.1,2.2,.033,-3.2,-0.9
+24,24,SAC,Olivier-Maxence Prosper,Marquette,3,110,1112,406,243,77,.410,.270,.710,10.1,3.7,2.2,0.7,1.9,.082,-2.4,-0.1
+25,25,MEM,Marcus Sasser,Houston,3,132,2181,968,197,376,.441,.377,.863,16.5,7.3,1.5,2.8,2.8,.063,-1.8,0.1
+26,26,IND,Ben Sheppard,Belmont,3,142,2592,727,356,181,.395,.318,.861,18.3,5.1,2.5,1.3,3.0,.056,-3.0,-0.7
+27,27,CHO,Nick Smith Jr.,Arkansas,3,123,2287,984,214,220,.395,.373,.884,18.6,8.0,1.7,1.8,-1.1,-.023,-5.6,-2.1
+28,28,UTA,Brice Sensabaugh,Ohio State,3,132,2512,1282,387,203,.435,.380,.890,19.0,9.7,2.9,1.5,1.4,.026,-2.5,-0.3
+29,29,IND,Julian Strawther,Gonzaga,3,129,2046,860,222,137,.407,.324,.781,15.9,6.7,1.7,1.1,1.3,.030,-5.3,-1.7
+30,30,LAC,Kobe Brown,Missouri,3,104,892,236,167,68,.415,.261,.800,8.6,2.3,1.6,0.7,1.1,.059,-2.9,-0.2
+31,31,DET,James Nnaji,,,,,,,,,,,,,,,,,,
+32,32,IND,Jalen Pickett,Penn State,3,91,958,293,111,155,.427,.386,.800,10.5,3.2,1.2,1.7,1.5,.075,-1.7,0.1
+33,33,SAS,Leonard Miller,,3,39,122,64,42,12,.532,.133,.800,3.1,1.6,1.1,0.3,0.5,.183,1.0,0.1
+34,34,CHO,Colby Jones,Xavier,3,70,714,223,131,66,.433,.247,.630,10.2,3.2,1.9,0.9,0.6,.041,-3.4,-0.2
+35,35,BOS,Julian Phillips,Tennessee,3,141,1668,517,235,59,.439,.321,.772,11.8,3.7,1.7,0.4,2.4,.070,-3.4,-0.6
+36,36,ORL,Andre Jackson Jr.,UConn,3,139,1649,377,307,150,.470,.365,.610,11.9,2.7,2.2,1.1,2.2,.064,-3.6,-0.6
+37,37,OKC,Hunter Tyson,Clemson,3,80,491,166,101,25,.361,.299,.767,6.1,2.1,1.3,0.3,0.4,.036,-5.5,-0.4
+38,38,SAC,Jordan Walsh,Arkansas,3,86,1008,275,212,50,.484,.345,.756,11.7,3.2,2.5,0.6,2.5,.120,-1.0,0.3
+39,39,CHO,Mouhamed Gueye,Washington State,3,70,1112,389,269,56,.443,.260,.711,15.9,5.6,3.8,0.8,2.1,.090,-1.9,0.0
+40,40,DEN,Maxwell Lewis,Pepperdine,2,62,430,127,59,25,.380,.339,.692,6.9,2.0,1.0,0.4,-0.2,-.024,-6.6,-0.5
+41,41,CHO,Amari Bailey,UCLA,1,10,65,23,9,7,.333,.125,.857,6.5,2.3,0.9,0.7,-0.1,-.044,-8.3,-0.1
+42,42,WAS,Tristan Vukcevic,,3,70,956,583,229,75,.476,.312,.775,13.7,8.3,3.3,1.1,0.9,.047,-2.0,0.0
+43,43,POR,Rayan Rupert,,3,115,1300,355,198,96,.371,.321,.746,11.3,3.1,1.7,0.8,-0.1,-.002,-6.0,-1.3
+44,44,SAS,Sidy Cissoko,,3,60,775,222,98,62,.414,.263,.677,12.9,3.7,1.6,1.0,0.3,.020,-5.2,-0.6
+45,45,MEM,GG Jackson II,South Carolina,3,88,1810,959,318,92,.411,.342,.739,20.6,10.9,3.6,1.0,1.4,.037,-3.0,-0.5
+46,46,ATL,Seth Lundy,Penn State,1,9,52,14,7,0,.235,.231,.750,5.8,1.6,0.8,0.0,-0.1,-.092,-12.7,-0.1
+47,47,LAL,Mojave King,,,,,,,,,,,,,,,,,,
+48,48,LAC,Jordan Miller,Miami (FL),3,54,565,219,88,44,.446,.286,.825,10.5,4.1,1.6,0.8,0.8,.066,-2.1,0.0
+49,49,CLE,Emoni Bates,Eastern Michigan,2,25,208,78,21,18,.322,.333,.250,8.3,3.1,0.8,0.7,-0.2,-.045,-6.4,-0.2
+50,50,OKC,Keyontae Johnson,Kansas State,1,9,66,11,10,4,.313,.333,,7.3,1.2,1.1,0.4,-0.1,-.068,-9.8,-0.1
+51,51,BRK,Jalen Wilson,Kansas,3,142,2974,1066,422,201,.401,.338,.815,20.9,7.5,3.0,1.4,3.0,.049,-3.9,-1.4
+52,52,PHO,Toumani Camara,Dayton,3,179,5327,1799,953,347,.444,.355,.728,29.8,10.1,5.3,1.9,7.9,.071,-1.6,0.5
+53,53,MIN,Jaylen Clark,UCLA,2,68,916,281,107,41,.450,.380,.681,13.5,4.1,1.6,0.6,2.3,.119,-1.2,0.2
+54,54,SAC,Jalen Slawson,Furman University,1,12,37,8,7,2,.667,.000,,3.1,0.7,0.6,0.2,0.0,.058,-6.4,0.0
+55,55,IND,Isaiah Wong,Miami (FL),2,21,269,122,32,28,.389,.382,.735,12.8,5.8,1.5,1.3,0.0,.006,-4.2,-0.1
+56,56,MEM,Tarik Biberovic,,,,,,,,,,,,,,,,,,
+57,57,WAS,Trayce Jackson-Davis,Indiana,3,151,2367,1044,731,209,.638,.000,.574,15.7,6.9,4.8,1.4,9.1,.185,1.8,2.3
+58,58,MIL,Chris Livingston,Kentucky,3,45,213,65,59,11,.429,.063,.762,4.7,1.4,1.3,0.2,0.2,.042,-6.7,-0.3
+,,,,,Chicago Bulls forfeited their Second Round pick.,Chicago Bulls forfeited their Second Round pick.,Chicago Bulls forfeited their Second Round pick.,Chicago Bulls forfeited their Second Round pick.,Chicago Bulls forfeited their Second Round pick.,Chicago Bulls forfeited their Second Round pick.,Chicago Bulls forfeited their Second Round pick.,Chicago Bulls forfeited their Second Round pick.,Chicago Bulls forfeited their Second Round pick.,Chicago Bulls forfeited their Second Round pick.,Chicago Bulls forfeited their Second Round pick.,Chicago Bulls forfeited their Second Round pick.,Chicago Bulls forfeited their Second Round pick.,Chicago Bulls forfeited their Second Round pick.,Chicago Bulls forfeited their Second Round pick.,Chicago Bulls forfeited their Second Round pick.,Chicago Bulls forfeited their Second Round pick.
+,,,,,Philadelphia 76ers forfeited their Second Round pick.,Philadelphia 76ers forfeited their Second Round pick.,Philadelphia 76ers forfeited their Second Round pick.,Philadelphia 76ers forfeited their Second Round pick.,Philadelphia 76ers forfeited their Second Round pick.,Philadelphia 76ers forfeited their Second Round pick.,Philadelphia 76ers forfeited their Second Round pick.,Philadelphia 76ers forfeited their Second Round pick.,Philadelphia 76ers forfeited their Second Round pick.,Philadelphia 76ers forfeited their Second Round pick.,Philadelphia 76ers forfeited their Second Round pick.,Philadelphia 76ers forfeited their Second Round pick.,Philadelphia 76ers forfeited their Second Round pick.,Philadelphia 76ers forfeited their Second Round pick.,Philadelphia 76ers forfeited their Second Round pick.,Philadelphia 76ers forfeited their Second Round pick.,Philadelphia 76ers forfeited their Second Round pick.
